@@ -1,0 +1,11 @@
+http://13.215.30.49:5000/api/sensor-types
+[
+    {
+        "id": 1,
+        "type": "temperature"
+    },
+    {
+        "id": 2,
+        "type": "moisture"
+    }
+]

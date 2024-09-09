@@ -1,0 +1,23 @@
+http://13.215.30.49:5000/api/settings
+[
+  {
+    "id": 9,
+    "max_humidity": 90.0,
+    "max_moisture": null,
+    "max_temperature": 27.0,
+    "min_humidity": 10.0,
+    "min_moisture": null,
+    "min_temperature": 10.0,
+    "sensor_id": 1
+  },
+  {
+    "id": 10,
+    "max_humidity": null,
+    "max_moisture": 90.0,
+    "max_temperature": null,
+    "min_humidity": null,
+    "min_moisture": 10.0,
+    "min_temperature": null,
+    "sensor_id": 2
+  }
+]

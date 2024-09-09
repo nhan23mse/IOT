@@ -1,0 +1,578 @@
+[
+  {
+    "dateTime": "08/28/2024, 06:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "27 \u00b0C",
+    "humidity": "78%",
+    "moisture": "49%"
+  },
+  {
+    "dateTime": "08/28/2024, 05:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "32 \u00b0C",
+    "humidity": "64%",
+    "moisture": "49%"
+  },
+  {
+    "dateTime": "08/28/2024, 04:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "20 \u00b0C",
+    "humidity": "65%",
+    "moisture": "32%"
+  },
+  {
+    "dateTime": "08/28/2024, 03:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "33 \u00b0C",
+    "humidity": "52%",
+    "moisture": "35%"
+  },
+  {
+    "dateTime": "08/28/2024, 02:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "29 \u00b0C",
+    "humidity": "60%",
+    "moisture": "45%"
+  },
+  {
+    "dateTime": "08/28/2024, 01:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "34 \u00b0C",
+    "humidity": "62%",
+    "moisture": "32%"
+  },
+  {
+    "dateTime": "08/28/2024, 12:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "73%",
+    "moisture": "48%"
+  },
+  {
+    "dateTime": "08/27/2024, 11:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "30 \u00b0C",
+    "humidity": "65%",
+    "moisture": "50%"
+  },
+  {
+    "dateTime": "08/27/2024, 10:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "24 \u00b0C",
+    "humidity": "58%",
+    "moisture": "43%"
+  },
+  {
+    "dateTime": "08/27/2024, 09:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "27 \u00b0C",
+    "humidity": "79%",
+    "moisture": "50%"
+  },
+  {
+    "dateTime": "08/27/2024, 08:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "33 \u00b0C",
+    "humidity": "62%",
+    "moisture": "42%"
+  },
+  {
+    "dateTime": "08/27/2024, 07:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "60%",
+    "moisture": "48%"
+  },
+  {
+    "dateTime": "08/27/2024, 06:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "32 \u00b0C",
+    "humidity": "61%",
+    "moisture": "35%"
+  },
+  {
+    "dateTime": "08/27/2024, 05:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "35 \u00b0C",
+    "humidity": "56%",
+    "moisture": "30%"
+  },
+  {
+    "dateTime": "08/27/2024, 04:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "33 \u00b0C",
+    "humidity": "78%",
+    "moisture": "48%"
+  },
+  {
+    "dateTime": "08/27/2024, 03:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "31 \u00b0C",
+    "humidity": "61%",
+    "moisture": "44%"
+  },
+  {
+    "dateTime": "08/27/2024, 02:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "28 \u00b0C",
+    "humidity": "63%",
+    "moisture": "33%"
+  },
+  {
+    "dateTime": "08/27/2024, 01:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "28 \u00b0C",
+    "humidity": "70%",
+    "moisture": "45%"
+  },
+  {
+    "dateTime": "08/27/2024, 12:29:25 PM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "28 \u00b0C",
+    "humidity": "72%",
+    "moisture": "31%"
+  },
+  {
+    "dateTime": "08/27/2024, 11:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "62%",
+    "moisture": "46%"
+  },
+  {
+    "dateTime": "08/27/2024, 10:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "30 \u00b0C",
+    "humidity": "74%",
+    "moisture": "34%"
+  },
+  {
+    "dateTime": "08/27/2024, 09:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "29 \u00b0C",
+    "humidity": "70%",
+    "moisture": "38%"
+  },
+  {
+    "dateTime": "08/27/2024, 08:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "28 \u00b0C",
+    "humidity": "76%",
+    "moisture": "46%"
+  },
+  {
+    "dateTime": "08/27/2024, 07:29:25 AM",
+    "sensorName": "Temperature Sensor #01",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "35 \u00b0C",
+    "humidity": "64%",
+    "moisture": "39%"
+  },
+  {
+    "dateTime": "08/27/2024, 06:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "27 \u00b0C",
+    "humidity": "60%",
+    "moisture": "44%"
+  },
+  {
+    "dateTime": "08/27/2024, 05:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "32 \u00b0C",
+    "humidity": "62%",
+    "moisture": "42%"
+  },
+  {
+    "dateTime": "08/27/2024, 04:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "65%",
+    "moisture": "47%"
+  },
+  {
+    "dateTime": "08/27/2024, 03:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "20 \u00b0C",
+    "humidity": "55%",
+    "moisture": "48%"
+  },
+  {
+    "dateTime": "08/27/2024, 02:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "33 \u00b0C",
+    "humidity": "64%",
+    "moisture": "31%"
+  },
+  {
+    "dateTime": "08/27/2024, 01:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "33 \u00b0C",
+    "humidity": "72%",
+    "moisture": "40%"
+  },
+  {
+    "dateTime": "08/27/2024, 12:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "22 \u00b0C",
+    "humidity": "79%",
+    "moisture": "33%"
+  },
+  {
+    "dateTime": "08/26/2024, 11:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "66%",
+    "moisture": "48%"
+  },
+  {
+    "dateTime": "08/26/2024, 10:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "75%",
+    "moisture": "45%"
+  },
+  {
+    "dateTime": "08/26/2024, 09:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "33 \u00b0C",
+    "humidity": "68%",
+    "moisture": "43%"
+  },
+  {
+    "dateTime": "08/26/2024, 08:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "29 \u00b0C",
+    "humidity": "61%",
+    "moisture": "49%"
+  },
+  {
+    "dateTime": "08/26/2024, 07:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "59%",
+    "moisture": "36%"
+  },
+  {
+    "dateTime": "08/26/2024, 06:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "21 \u00b0C",
+    "humidity": "71%",
+    "moisture": "46%"
+  },
+  {
+    "dateTime": "08/26/2024, 05:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "24 \u00b0C",
+    "humidity": "65%",
+    "moisture": "41%"
+  },
+  {
+    "dateTime": "08/26/2024, 04:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "24 \u00b0C",
+    "humidity": "56%",
+    "moisture": "37%"
+  },
+  {
+    "dateTime": "08/26/2024, 03:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "30 \u00b0C",
+    "humidity": "71%",
+    "moisture": "44%"
+  },
+  {
+    "dateTime": "08/26/2024, 02:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "33 \u00b0C",
+    "humidity": "68%",
+    "moisture": "48%"
+  },
+  {
+    "dateTime": "08/26/2024, 01:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "32 \u00b0C",
+    "humidity": "70%",
+    "moisture": "50%"
+  },
+  {
+    "dateTime": "08/26/2024, 12:29:25 PM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "31 \u00b0C",
+    "humidity": "50%",
+    "moisture": "47%"
+  },
+  {
+    "dateTime": "08/26/2024, 11:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "30 \u00b0C",
+    "humidity": "76%",
+    "moisture": "31%"
+  },
+  {
+    "dateTime": "08/26/2024, 10:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "30 \u00b0C",
+    "humidity": "79%",
+    "moisture": "38%"
+  },
+  {
+    "dateTime": "08/26/2024, 09:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "70%",
+    "moisture": "39%"
+  },
+  {
+    "dateTime": "08/26/2024, 08:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "52%",
+    "moisture": "42%"
+  },
+  {
+    "dateTime": "08/26/2024, 07:29:25 AM",
+    "sensorName": "Temperature Sensor #02",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "28 \u00b0C",
+    "humidity": "69%",
+    "moisture": "37%"
+  },
+  {
+    "dateTime": "08/26/2024, 06:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "22 \u00b0C",
+    "humidity": "67%",
+    "moisture": "30%"
+  },
+  {
+    "dateTime": "08/26/2024, 05:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "28 \u00b0C",
+    "humidity": "56%",
+    "moisture": "32%"
+  },
+  {
+    "dateTime": "08/26/2024, 04:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "26 \u00b0C",
+    "humidity": "65%",
+    "moisture": "41%"
+  },
+  {
+    "dateTime": "08/26/2024, 03:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "61%",
+    "moisture": "33%"
+  },
+  {
+    "dateTime": "08/26/2024, 02:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "31 \u00b0C",
+    "humidity": "66%",
+    "moisture": "35%"
+  },
+  {
+    "dateTime": "08/26/2024, 01:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "58%",
+    "moisture": "49%"
+  },
+  {
+    "dateTime": "08/26/2024, 12:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "22 \u00b0C",
+    "humidity": "59%",
+    "moisture": "30%"
+  },
+  {
+    "dateTime": "08/25/2024, 11:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "26 \u00b0C",
+    "humidity": "54%",
+    "moisture": "46%"
+  },
+  {
+    "dateTime": "08/25/2024, 10:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "20 \u00b0C",
+    "humidity": "68%",
+    "moisture": "41%"
+  },
+  {
+    "dateTime": "08/25/2024, 09:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "54%",
+    "moisture": "32%"
+  },
+  {
+    "dateTime": "08/25/2024, 08:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "31 \u00b0C",
+    "humidity": "72%",
+    "moisture": "46%"
+  },
+  {
+    "dateTime": "08/25/2024, 07:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "20 \u00b0C",
+    "humidity": "53%",
+    "moisture": "44%"
+  },
+  {
+    "dateTime": "08/25/2024, 06:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "35 \u00b0C",
+    "humidity": "68%",
+    "moisture": "32%"
+  },
+  {
+    "dateTime": "08/25/2024, 05:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "26 \u00b0C",
+    "humidity": "66%",
+    "moisture": "44%"
+  },
+  {
+    "dateTime": "08/25/2024, 04:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "64%",
+    "moisture": "50%"
+  },
+  {
+    "dateTime": "08/25/2024, 03:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "57%",
+    "moisture": "43%"
+  },
+  {
+    "dateTime": "08/25/2024, 02:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "80%",
+    "moisture": "40%"
+  },
+  {
+    "dateTime": "08/25/2024, 01:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "30 \u00b0C",
+    "humidity": "55%",
+    "moisture": "49%"
+  },
+  {
+    "dateTime": "08/25/2024, 12:29:25 PM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "23 \u00b0C",
+    "humidity": "76%",
+    "moisture": "45%"
+  },
+  {
+    "dateTime": "08/25/2024, 11:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "28 \u00b0C",
+    "humidity": "53%",
+    "moisture": "38%"
+  },
+  {
+    "dateTime": "08/25/2024, 10:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "32 \u00b0C",
+    "humidity": "55%",
+    "moisture": "42%"
+  },
+  {
+    "dateTime": "08/25/2024, 09:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "24 \u00b0C",
+    "humidity": "79%",
+    "moisture": "35%"
+  },
+  {
+    "dateTime": "08/25/2024, 08:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "21 \u00b0C",
+    "humidity": "67%",
+    "moisture": "38%"
+  },
+  {
+    "dateTime": "08/25/2024, 07:29:25 AM",
+    "sensorName": "Temperature Sensor #03",
+    "location": "Weed Garden - 80 Le Loi, Da Nang, Viet Nam",
+    "temperature": "36 \u00b0C",
+    "humidity": "70%",
+    "moisture": "31%"
+  }
+]

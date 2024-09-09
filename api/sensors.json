@@ -1,0 +1,19 @@
+http://13.215.30.49:5000/api/sensors
+[
+    {
+        "id": 1,
+        "location": "Weed Garden",
+        "location_id": 1,
+        "name": "DHT11",
+        "type": "temperature",
+        "type_id": 1
+    },
+    {
+        "id": 2,
+        "location": "Weed Garden",
+        "location_id": 1,
+        "name": "SMSV1",
+        "type": "moisture",
+        "type_id": 2
+    }
+]
